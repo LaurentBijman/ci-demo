@@ -1,0 +1,12 @@
+{
+  "name": "pull-request-ci-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal CI/CD demo for GitHub Actions",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.5.1"
+  }
+}
